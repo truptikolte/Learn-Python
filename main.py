@@ -4,7 +4,7 @@ print('hello')
 #Literals are constants used in python
 #literal are data given variables as constant
 #single literals
-name = "Namah Shivay"
+name = "Hello"
 print(name)
 #multiple line print
 mulitiple = '''OM
